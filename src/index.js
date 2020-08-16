@@ -9,4 +9,5 @@ document.getElementById("app").innerHTML = `
 </div>
 `;
 
-console.log("Hola");
+console.log("Hola mundo");
+console.log("Ya tengo el link entre ambos");
